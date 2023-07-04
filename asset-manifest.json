@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HappyPet/static/css/main.756af292.css",
+    "main.js": "/HappyPet/static/js/main.67e2ec2c.js",
+    "static/js/787.042f60ca.chunk.js": "/HappyPet/static/js/787.042f60ca.chunk.js",
+    "static/media/logo.svg": "/HappyPet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/HappyPet/index.html",
+    "main.756af292.css.map": "/HappyPet/static/css/main.756af292.css.map",
+    "main.67e2ec2c.js.map": "/HappyPet/static/js/main.67e2ec2c.js.map",
+    "787.042f60ca.chunk.js.map": "/HappyPet/static/js/787.042f60ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.67e2ec2c.js"
+  ]
+}
